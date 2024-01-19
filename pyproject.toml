@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fakes sales data packages"
+version = "0.1.0"
+description = "packages to generate fake data for sales dashboard"
+authors = ["Gabi S <51805975+sgabriella2023@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.4"
+Faker = "^22.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
