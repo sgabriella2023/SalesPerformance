@@ -8,8 +8,8 @@
 
 Notes for self: 
 * CMD + SHFT + V (Markdown Preview)
-* [Markdown CheatSheet]("https://learnxinyminutes.com/docs/markdown/#simple-text-styles")
-* [Markdown Emoji CheatSheet]("https://gist.github.com/rxaviers/7360908")
+* [Markdown CheatSheet](https://learnxinyminutes.com/docs/markdown/#simple-text-styles)
+* [Markdown Emoji CheatSheet](https://gist.github.com/rxaviers/7360908)
 
  # Motivation :rocket:
 
@@ -28,11 +28,13 @@ Notes for self:
 
 # Methods & Technology :computer:
 * Data tools: `Python`, `Excel`
-* Data Source: 
+* Data Source: self created using Faker & inspo from ChatGPT
 * Software: PyCharm, Microsoft Excel, Github 
 
 # Featured Deliverables :bar_chart:
-* 
+*   
+
+
 
 # Contact :mailbox_with_mail:
 If you have any questions, DM me on [Linkedin!]("https://www.linkedin.com/in/sgabriella2023/")
