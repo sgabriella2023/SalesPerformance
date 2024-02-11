@@ -1,9 +1,9 @@
 # Sales Performance
-![Progress](https://progress-bar.dev/50/?title=progress)
+![Progress](https://progress-bar.dev/100/?title=progress)
 
+![Tableau Dashboard](Sales_Performance_Dashboard.png) "An optional title")
 
-
-### read me file is under construction 
+### 
 # Purpose
 
 Notes for self: 
@@ -33,7 +33,6 @@ Notes for self:
 
 # Featured Deliverables :bar_chart:
 *   
-
 
 
 # Contact :mailbox_with_mail:
